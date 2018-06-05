@@ -3,4 +3,7 @@ This is going to update the file on GitHub once we commit the file.
 
 
 This is to test the pull command.
+
+This line will show if the file is changed in the branch
+
 These lines will show up in the local file once we pull the changes from GitHub.
