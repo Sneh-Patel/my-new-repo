@@ -1,5 +1,2 @@
 This is the a sample file to test Git from the command line.
 This is going to update the file on GitHub once we commit the file.
-
-
-This is to test the pull command
